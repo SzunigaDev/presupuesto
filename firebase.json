@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "szc-presupuesto",
     "public": "public",
     "ignore": [
       "firebase.json",
